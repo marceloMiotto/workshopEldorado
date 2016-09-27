@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestingHttp</string>
+    <string name="msg_not_connected">Nao Conectado</string>
+</resources>

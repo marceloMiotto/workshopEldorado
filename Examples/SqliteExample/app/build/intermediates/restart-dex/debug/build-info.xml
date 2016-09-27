@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="16203921610917"
+    token="5541252253758448501" >
+
+    <task
+        name="javac"
+        duration="935" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="399" />
+    <task
+        name="verifier"
+        duration="146" />
+
+    <artifact
+        location="C:\Users\marcelo_miotto\Documents\Android\workshopEldo\Examples\SqliteExample\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="16203921610917" >
+        <artifact
+            location="C:\Users\marcelo_miotto\Documents\Android\workshopEldo\Examples\SqliteExample\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

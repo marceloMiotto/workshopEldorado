@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Http Example</string>
+    <string name="msg_not_connected">Você não está conectado.</string>
+</resources>
