@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Workshop Eldo</string>
+    <string name="WelcomeMessage">Bem Vindo %s!</string>
+</resources>
